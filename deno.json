@@ -1,0 +1,17 @@
+{
+  "tasks": {
+    "dev": "npm run dev",
+    "build": "npm run build",
+    "preview": "npm run preview"
+  },
+  "compilerOptions": {
+    "lib": ["deno.window", "esnext"],
+    "strict": true
+  },
+  "imports": {
+    "@sveltejs/kit": "npm:@sveltejs/kit@^2.22.0",
+    "@sveltejs/vite-plugin-svelte": "npm:@sveltejs/vite-plugin-svelte@^6.0.0",
+    "svelte": "npm:svelte@^5.0.0",
+    "vite": "npm:vite@^7.0.4"
+  }
+}
