@@ -660,6 +660,8 @@
       "npm:@sveltejs/adapter-auto@6",
       "npm:@sveltejs/kit@^2.22.0",
       "npm:@sveltejs/vite-plugin-svelte@6",
+      "npm:clsx@^2.1.1",
+      "npm:devalue@^5.3.2",
       "npm:set-cookie-parser@^2.7.1",
       "npm:svelte@5",
       "npm:vite@^7.0.4"
@@ -669,6 +671,7 @@
         "npm:@sveltejs/adapter-auto@6",
         "npm:@sveltejs/kit@^2.22.0",
         "npm:@sveltejs/vite-plugin-svelte@6",
+        "npm:clsx@^2.1.1",
         "npm:devalue@^5.3.2",
         "npm:set-cookie-parser@^2.7.1",
         "npm:svelte-check@4",

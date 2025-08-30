@@ -15,6 +15,7 @@
     "svelte": "npm:svelte@^5.0.0",
     "vite": "npm:vite@^7.0.4",
     "set-cookie-parser": "npm:set-cookie-parser@^2.7.1",
-    "devalue": "npm:devalue@^5.3.2"
+    "devalue": "npm:devalue@^5.3.2",
+    "clsx": "npm:clsx@^2.1.1"
   }
 }
