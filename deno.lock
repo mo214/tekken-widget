@@ -657,6 +657,7 @@
   },
   "workspace": {
     "dependencies": [
+      "npm:@deno/svelte-adapter@0.1",
       "npm:@sveltejs/adapter-auto@6",
       "npm:@sveltejs/kit@^2.22.0",
       "npm:@sveltejs/vite-plugin-svelte@6",
@@ -668,6 +669,7 @@
     ],
     "packageJson": {
       "dependencies": [
+        "npm:@deno/svelte-adapter@0.1",
         "npm:@sveltejs/adapter-auto@6",
         "npm:@sveltejs/kit@^2.22.0",
         "npm:@sveltejs/vite-plugin-svelte@6",

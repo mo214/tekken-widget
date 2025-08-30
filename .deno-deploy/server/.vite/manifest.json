@@ -112,14 +112,7 @@
     "file": "entries/pages/_page.svelte.js",
     "name": "entries/pages/_page.svelte",
     "src": "src/routes/+page.svelte",
-    "isEntry": true,
-    "imports": [
-      "_escaping.js",
-      "_index.js"
-    ],
-    "css": [
-      "_app/immutable/assets/_page.BRwSLupV.css"
-    ]
+    "isEntry": true
   },
   "src/routes/api/rank/+server.ts": {
     "file": "entries/endpoints/api/rank/_server.ts.js",
