@@ -27,7 +27,7 @@
       loading = false;
     }
   }
-// new version
+// new version 1.0 
   function calculateProgress() {
     if (!rankData || rankData.rankNumber === -1) return 0;
     
